@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="hp-PC" name="com.crm.qa.testcases.HomePageTest" tests="4" failures="0" timestamp="30 Nov 2019 18:07:06 GMT" time="116.015" errors="0">
+  <testcase name="verifyHomePageTitleTest" time="0.013" classname="com.crm.qa.testcases.HomePageTest"/>
+  <testcase name="validateUserNameOnHomePage" time="2.908" classname="com.crm.qa.testcases.HomePageTest"/>
+  <testcase name="verifyContactLinkTest" time="2.545" classname="com.crm.qa.testcases.HomePageTest"/>
+  <testcase name="verifySettingTab" time="4.73" classname="com.crm.qa.testcases.HomePageTest"/>
+</testsuite>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="hp-PC" name="com.crm.qa.testcases.LoginPageTest" tests="4" failures="0" timestamp="30 Nov 2019 18:05:10 GMT" time="136.029" errors="0">
+  <testcase name="verifyLoginPageTitleTest" time="0.054" classname="com.crm.qa.testcases.LoginPageTest"/>
+  <testcase name="signupLinkTest" time="6.265" classname="com.crm.qa.testcases.LoginPageTest"/>
+  <testcase name="loginFirstBtnTest" time="19.169" classname="com.crm.qa.testcases.LoginPageTest"/>
+  <testcase name="loginTest" time="26.068" classname="com.crm.qa.testcases.LoginPageTest"/>
+</testsuite>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite thread-count="1" verbose="1" name="FREE CRM APPLICATION AUTOMATION TEST" parallel="tests" >
+<listeners>
+  <listener class-name="com.crm.qa.extentreport.ExtentReportListener"/>
+</listeners>
+<test name="LOGIN PAGE TEST" >
+    <classes>
+      <class name="com.crm.qa.testcases.LoginPageTest"/>
+    </classes>
+    </test>
+   
+   <test name="HOME PAGE TEST" >
+   <classes>
+    <class name="com.crm.qa.testcases.HomePageTest"/>
+   </classes>
+   </test>
+   
+   <test name="CONTACT PAGE TEST" >
+   <classes>
+    <class name="com.crm.qa.testcases.ContactPageTest"/>
+    </classes>
+   </test>
+   
+</suite>

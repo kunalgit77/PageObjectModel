@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="hp-PC" name="com.crm.qa.testcases.HomePageTest" tests="8" failures="0" timestamp="6 Nov 2019 11:26:20 GMT" time="141.348" errors="0">
+  <testcase name="verifyHomePageTitleTest" time="0.017" classname="com.crm.qa.testcases.HomePageTest"/>
+  <testcase name="verifyLoginPageTitleTest" time="0.056" classname="com.crm.qa.testcases.LoginPageTest"/>
+  <testcase name="validateUserNameOnHomePage" time="2.421" classname="com.crm.qa.testcases.HomePageTest"/>
+  <testcase name="signupLinkTest" time="3.993" classname="com.crm.qa.testcases.LoginPageTest"/>
+  <testcase name="verifyContactLinkTest" time="2.911" classname="com.crm.qa.testcases.HomePageTest"/>
+  <testcase name="loginFirstBtnTest" time="6.533" classname="com.crm.qa.testcases.LoginPageTest"/>
+  <testcase name="verifySettingTab" time="4.478" classname="com.crm.qa.testcases.HomePageTest"/>
+  <testcase name="loginTest" time="8.783" classname="com.crm.qa.testcases.LoginPageTest"/>
+</testsuite>

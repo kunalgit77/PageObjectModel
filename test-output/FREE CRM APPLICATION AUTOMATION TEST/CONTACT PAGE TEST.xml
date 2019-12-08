@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="hp-PC" name="com.crm.qa.testcases.ContactPageTest" tests="6" failures="0" timestamp="30 Nov 2019 18:10:26 GMT" time="199.373" errors="0">
+  <testcase name="clickAndAlertTest" time="0.314" classname="com.crm.qa.testcases.ContactPageTest"/>
+  <testcase name="clickLogoutTest" time="0.956" classname="com.crm.qa.testcases.ContactPageTest"/>
+  <testcase name="clickNewTest" time="1.952" classname="com.crm.qa.testcases.ContactPageTest"/>
+  <testcase name="newContactTest" time="13.165" classname="com.crm.qa.testcases.ContactPageTest"/>
+  <testcase name="newContactTest" time="13.889" classname="com.crm.qa.testcases.ContactPageTest"/>
+  <testcase name="newContactTest" time="13.205" classname="com.crm.qa.testcases.ContactPageTest"/>
+</testsuite>

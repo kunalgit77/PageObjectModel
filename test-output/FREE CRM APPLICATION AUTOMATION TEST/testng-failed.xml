@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" name="Failed suite [FREE CRM APPLICATION AUTOMATION TEST]" parallel="tests">
+  <listeners>
+    <listener class-name="com.crm.qa.extentreport.ExtentReportListener"/>
+  </listeners>
+  <test name="CONTACT PAGE TEST(failed)" parallel="tests" preserve-order="false">
+    <classes>
+      <class name="com.crm.qa.testcases.ContactPageTest">
+        <methods>
+          <include name="newContactTest"/>
+          <include name="setUp"/>
+          <include name="shutDown"/>
+        </methods>
+      </class>
+    </classes>
+  </test>
+</suite>

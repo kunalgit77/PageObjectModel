@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="16" passed="16">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="442040" started-at="2019-07-13T14:22:03Z" finished-at="2019-07-13T14:29:25Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="442040" started-at="2019-07-13T14:22:03Z" finished-at="2019-07-13T14:29:25Z">
+      <class name="com.crm.qa.testcases.ContactPageTest">
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="47692" started-at="2019-07-13T14:22:03Z" finished-at="2019-07-13T14:22:51Z">
+        </test-method>
+        <test-method status="PASS" signature="clickAndAlertTest()" name="clickAndAlertTest" duration-ms="4539" started-at="2019-07-13T14:22:51Z" finished-at="2019-07-13T14:22:56Z">
+        </test-method>
+        <test-method status="PASS" signature="shutDown()" name="shutDown" is-config="true" duration-ms="1849" started-at="2019-07-13T14:22:56Z" finished-at="2019-07-13T14:22:57Z">
+        </test-method>
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="21279" started-at="2019-07-13T14:23:44Z" finished-at="2019-07-13T14:24:05Z">
+        </test-method>
+        <test-method status="PASS" signature="clickLogoutTest()" name="clickLogoutTest" duration-ms="844" started-at="2019-07-13T14:24:05Z" finished-at="2019-07-13T14:24:06Z">
+        </test-method>
+        <test-method status="PASS" signature="shutDown()" name="shutDown" is-config="true" duration-ms="653" started-at="2019-07-13T14:24:06Z" finished-at="2019-07-13T14:24:07Z">
+        </test-method>
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="24127" started-at="2019-07-13T14:24:53Z" finished-at="2019-07-13T14:25:17Z">
+        </test-method>
+        <test-method status="PASS" signature="clickNewTest()" name="clickNewTest" duration-ms="747" started-at="2019-07-13T14:25:17Z" finished-at="2019-07-13T14:25:18Z">
+        </test-method>
+        <test-method status="PASS" signature="shutDown()" name="shutDown" is-config="true" duration-ms="634" started-at="2019-07-13T14:25:18Z" finished-at="2019-07-13T14:25:19Z">
+        </test-method>
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="23301" started-at="2019-07-13T14:26:04Z" finished-at="2019-07-13T14:26:28Z">
+        </test-method>
+        <test-method status="PASS" signature="newContactTest(java.lang.String, java.lang.String, java.lang.String)" name="newContactTest" duration-ms="4144" started-at="2019-07-13T14:26:28Z" finished-at="2019-07-13T14:26:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Anmol]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Gaba]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Twitter]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="shutDown()" name="shutDown" is-config="true" duration-ms="633" started-at="2019-07-13T14:26:32Z" finished-at="2019-07-13T14:26:32Z">
+        </test-method>
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="26906" started-at="2019-07-13T14:26:32Z" finished-at="2019-07-13T14:26:59Z">
+        </test-method>
+        <test-method status="PASS" signature="newContactTest(java.lang.String, java.lang.String, java.lang.String)" name="newContactTest" duration-ms="4319" started-at="2019-07-13T14:26:59Z" finished-at="2019-07-13T14:27:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Shubham]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Anil]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Facebook]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="shutDown()" name="shutDown" is-config="true" duration-ms="1145" started-at="2019-07-13T14:27:04Z" finished-at="2019-07-13T14:27:05Z">
+        </test-method>
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="23226" started-at="2019-07-13T14:27:05Z" finished-at="2019-07-13T14:27:28Z">
+        </test-method>
+        <test-method status="PASS" signature="newContactTest(java.lang.String, java.lang.String, java.lang.String)" name="newContactTest" duration-ms="4512" started-at="2019-07-13T14:27:28Z" finished-at="2019-07-13T14:27:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ashit]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Jhingan]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Facebook]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="shutDown()" name="shutDown" is-config="true" duration-ms="625" started-at="2019-07-13T14:27:32Z" finished-at="2019-07-13T14:27:33Z">
+        </test-method>
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="24197" started-at="2019-07-13T14:27:33Z" finished-at="2019-07-13T14:27:57Z">
+        </test-method>
+        <test-method status="PASS" signature="newContactTest(java.lang.String, java.lang.String, java.lang.String)" name="newContactTest" duration-ms="3989" started-at="2019-07-13T14:27:57Z" finished-at="2019-07-13T14:28:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Rahul]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Gupta]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Linkedin]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="shutDown()" name="shutDown" is-config="true" duration-ms="622" started-at="2019-07-13T14:28:01Z" finished-at="2019-07-13T14:28:02Z">
+        </test-method>
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="27046" started-at="2019-07-13T14:28:02Z" finished-at="2019-07-13T14:28:29Z">
+        </test-method>
+        <test-method status="PASS" signature="newContactTest(java.lang.String, java.lang.String, java.lang.String)" name="newContactTest" duration-ms="3822" started-at="2019-07-13T14:28:29Z" finished-at="2019-07-13T14:28:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ram]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Singh]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Linkedin]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="shutDown()" name="shutDown" is-config="true" duration-ms="672" started-at="2019-07-13T14:28:33Z" finished-at="2019-07-13T14:28:33Z">
+        </test-method>
+      </class>
+      <class name="com.crm.qa.testcases.HomePageTest">
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="29710" started-at="2019-07-13T14:22:57Z" finished-at="2019-07-13T14:23:27Z">
+        </test-method>
+        <test-method status="PASS" signature="verifyHomePageTitleTest()" name="verifyHomePageTitleTest" duration-ms="11" started-at="2019-07-13T14:23:27Z" finished-at="2019-07-13T14:23:27Z">
+        </test-method>
+        <test-method status="PASS" signature="shutDown()" name="shutDown" is-config="true" duration-ms="655" started-at="2019-07-13T14:23:27Z" finished-at="2019-07-13T14:23:28Z">
+        </test-method>
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="22680" started-at="2019-07-13T14:24:07Z" finished-at="2019-07-13T14:24:30Z">
+        </test-method>
+        <test-method status="PASS" signature="validateUserNameOnHomePage()" name="validateUserNameOnHomePage" duration-ms="3362" started-at="2019-07-13T14:24:30Z" finished-at="2019-07-13T14:24:33Z">
+        </test-method>
+        <test-method status="PASS" signature="shutDown()" name="shutDown" is-config="true" duration-ms="610" started-at="2019-07-13T14:24:33Z" finished-at="2019-07-13T14:24:34Z">
+        </test-method>
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="19061" started-at="2019-07-13T14:25:19Z" finished-at="2019-07-13T14:25:38Z">
+        </test-method>
+        <test-method status="PASS" signature="verifyContactLinkTest()" name="verifyContactLinkTest" duration-ms="3311" started-at="2019-07-13T14:25:38Z" finished-at="2019-07-13T14:25:41Z">
+        </test-method>
+        <test-method status="PASS" signature="shutDown()" name="shutDown" is-config="true" duration-ms="629" started-at="2019-07-13T14:25:41Z" finished-at="2019-07-13T14:25:42Z">
+        </test-method>
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="23332" started-at="2019-07-13T14:28:33Z" finished-at="2019-07-13T14:28:57Z">
+        </test-method>
+        <test-method status="PASS" signature="verifySettingTab()" name="verifySettingTab" duration-ms="3747" started-at="2019-07-13T14:28:57Z" finished-at="2019-07-13T14:29:00Z">
+        </test-method>
+        <test-method status="PASS" signature="shutDown()" name="shutDown" is-config="true" duration-ms="654" started-at="2019-07-13T14:29:00Z" finished-at="2019-07-13T14:29:01Z">
+        </test-method>
+      </class>
+      <class name="com.crm.qa.testcases.LoginPageTest">
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="9229" started-at="2019-07-13T14:23:28Z" finished-at="2019-07-13T14:23:37Z">
+        </test-method>
+        <test-method status="PASS" signature="modelPopupTest()" name="modelPopupTest" duration-ms="6519" started-at="2019-07-13T14:23:37Z" finished-at="2019-07-13T14:23:43Z">
+        </test-method>
+        <test-method status="PASS" signature="shutDown()" name="shutDown" is-config="true" duration-ms="625" started-at="2019-07-13T14:23:43Z" finished-at="2019-07-13T14:23:44Z">
+        </test-method>
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="10405" started-at="2019-07-13T14:24:34Z" finished-at="2019-07-13T14:24:44Z">
+        </test-method>
+        <test-method status="PASS" signature="signupLinkTest()" name="signupLinkTest" duration-ms="8593" started-at="2019-07-13T14:24:44Z" finished-at="2019-07-13T14:24:53Z">
+        </test-method>
+        <test-method status="PASS" signature="shutDown()" name="shutDown" is-config="true" duration-ms="622" started-at="2019-07-13T14:24:53Z" finished-at="2019-07-13T14:24:53Z">
+        </test-method>
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="9808" started-at="2019-07-13T14:25:42Z" finished-at="2019-07-13T14:25:51Z">
+        </test-method>
+        <test-method status="PASS" signature="loginFirstBtnTest()" name="loginFirstBtnTest" duration-ms="10353" started-at="2019-07-13T14:25:51Z" finished-at="2019-07-13T14:26:02Z">
+        </test-method>
+        <test-method status="PASS" signature="shutDown()" name="shutDown" is-config="true" duration-ms="598" started-at="2019-07-13T14:26:02Z" finished-at="2019-07-13T14:26:02Z">
+        </test-method>
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="11038" started-at="2019-07-13T14:29:01Z" finished-at="2019-07-13T14:29:12Z">
+        </test-method>
+        <test-method status="PASS" signature="loginTest()" name="loginTest" duration-ms="12502" started-at="2019-07-13T14:29:12Z" finished-at="2019-07-13T14:29:25Z">
+        </test-method>
+        <test-method status="PASS" signature="shutDown()" name="shutDown" is-config="true" duration-ms="620" started-at="2019-07-13T14:29:25Z" finished-at="2019-07-13T14:29:25Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="hp-PC" name="com.crm.qa.testcases.ContactPageTest" tests="16" failures="0" timestamp="13 Jul 2019 08:59:25 GMT" time="442.04" errors="0">
+  <testcase name="clickAndAlertTest" time="4.539" classname="com.crm.qa.testcases.ContactPageTest"/>
+  <testcase name="verifyHomePageTitleTest" time="0.011" classname="com.crm.qa.testcases.HomePageTest"/>
+  <testcase name="modelPopupTest" time="6.519" classname="com.crm.qa.testcases.LoginPageTest"/>
+  <testcase name="clickLogoutTest" time="0.844" classname="com.crm.qa.testcases.ContactPageTest"/>
+  <testcase name="validateUserNameOnHomePage" time="3.362" classname="com.crm.qa.testcases.HomePageTest"/>
+  <testcase name="signupLinkTest" time="8.593" classname="com.crm.qa.testcases.LoginPageTest"/>
+  <testcase name="clickNewTest" time="0.747" classname="com.crm.qa.testcases.ContactPageTest"/>
+  <testcase name="verifyContactLinkTest" time="3.311" classname="com.crm.qa.testcases.HomePageTest"/>
+  <testcase name="loginFirstBtnTest" time="10.353" classname="com.crm.qa.testcases.LoginPageTest"/>
+  <testcase name="newContactTest" time="4.144" classname="com.crm.qa.testcases.ContactPageTest"/>
+  <testcase name="newContactTest" time="4.319" classname="com.crm.qa.testcases.ContactPageTest"/>
+  <testcase name="newContactTest" time="4.512" classname="com.crm.qa.testcases.ContactPageTest"/>
+  <testcase name="newContactTest" time="3.989" classname="com.crm.qa.testcases.ContactPageTest"/>
+  <testcase name="newContactTest" time="3.822" classname="com.crm.qa.testcases.ContactPageTest"/>
+  <testcase name="verifySettingTab" time="3.747" classname="com.crm.qa.testcases.HomePageTest"/>
+  <testcase name="loginTest" time="12.502" classname="com.crm.qa.testcases.LoginPageTest"/>
+</testsuite>
